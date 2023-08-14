@@ -1,3 +1,6 @@
+# About the Project
+This Project deals with increment and decrement of number using react redux tookit.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
